@@ -1,9 +1,9 @@
-# iEXPENSE - a react app to manage your expenses
+# BUDGET-TRACKER - a react app to manage your expenses
 <h3>
 
 - Built with `React context, Custom hooks, React-Bootstrap & localstorage`
 <h3>
-<h2><a href="https://iexpenses.netlify.app/">Project Link: iexpenses.netlify.app</a></h2>
+<h2><a href="https://yeshwanth-kr.github.io/budget-tracker/">Project Link: yeshwanth-kr.github.io/budget-tracker/</a></h2>
   
 <img width="100%" alt="GIF" src="/src/budget-tracker_Demo.gif" />
 
